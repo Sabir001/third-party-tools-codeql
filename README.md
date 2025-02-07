@@ -61,7 +61,7 @@ resource "aws_db_security_group" "my-group" {
 }
 
 variable "enableEncryption" {
-	default = false
+    default = false
 }
 
 resource "azurerm_managed_disk" "source" {
