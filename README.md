@@ -40,7 +40,7 @@ jobs:
 
 ### 2. Enable GitHub Code Scanning
 Add this Terraform file with tha name [`main.tf`]
-```json
+```yaml
 resource "aws_security_group_rule" "my-rule" {
     type        = "ingress"
     cidr_blocks = ["0.0.0.0/0"]
