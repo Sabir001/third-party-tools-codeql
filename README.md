@@ -8,6 +8,19 @@ This repository uses `tfsec` along with GitHub Actions to automatically scan Ter
 ## Setup
 To integrate `tfsec` into your GitHub workflow, follow these steps:
 
+## How to start this course
+
+<!-- For start course, run in JavaScript:
+'https://github.com/new?' + new URLSearchParams({
+  template_owner: 'TBD-organization',
+  template_name: 'TBD-course-name',
+  owner: '@me',
+  name: 'TBD-organization-TBD-course-name',
+  description: 'My clone repository',
+  visibility: 'public',
+}).toString()
+-->
+
 ### 1. Add a GitHub Actions Workflow
 Create a file `.github/workflows/tfsec.yml` with the following content:
 
