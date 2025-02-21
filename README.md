@@ -21,7 +21,7 @@ To integrate `tfsec` into your GitHub workflow, follow these steps:
 }).toString()
 -->
 
-[![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=danf22&template_name=sarif-third-party-sast-tools=%40me&name=sarif-third-party-sast-tools&description=GitHub+Skills:+Introduction+to+sarif&visibility=public)
+[![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_name=sarif-third-party-sast-tools&template_owner=danf22=%40me&name=sarif-third-party-sast-tools&description=GitHub+Skills:+Introduction+to+sarif&visibility=public)
 
 ### 1. Add a GitHub Actions Workflow
 Create a file `.github/workflows/tfsec.yml` with the following content:
