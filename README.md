@@ -19,7 +19,7 @@ To integrate `tfsec` into your GitHub workflow, follow these steps:
   description: 'My clone repository',
   visibility: 'public',
 }).toString()
--->https://github.com/new?template_name=sarif-third-party-sast-tools&template_owner=danf22
+-->
 
 [![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_name=sarif-third-party-sast-tools&template_owner=danf22)
 
